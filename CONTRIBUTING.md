@@ -55,7 +55,7 @@ Do not forget to separate each area with a blank line.
 `<type>` must be one of the following.
 
 ```html
-fix : Fix an issue e.g. bug, code typo, accident, misstatement
+fix: Fix an issue e.g. bug, code typo, accident, misstatement
 feat: < Add | Delete | Update > a feature
 redo: Changes neither fix a bug nor add a feature (refactor)
 test: < Add | Delete | Update > a test
@@ -98,11 +98,11 @@ is also the place to reference GitHub issues, Trello tickets, and other PRs that
 this commit closes or is related to.
 
 ```html
-iss : < close | reopen > #124
-PRs : #123 (Pull Request)
-ref : a5c3785 (Commit)
+iss: < close | reopen > #124
+PRs: #123 (Pull Request)
+ref: a5c3785 (Commit)
       repo-name@a5c3785 (Commit from another repository)
-see : Links to external resources, articles, or Trello tickets
+see: Links to external resources, articles, or Trello tickets
 ```
 
 - `BREAKING CHANGE:` followed by a summary of the breaking change, a blank line,
