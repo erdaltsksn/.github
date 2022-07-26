@@ -25,6 +25,7 @@ contain its own file of that type.
 
 01. Fork this repository
 02. Customize it according to your taste
+    - The repository you forked must be named `.github`
 
 ## Updating / Upgrading
 
