@@ -10,17 +10,6 @@ body:
       value: >
         We are here to help!
 
-  - type: checkboxes
-    attributes:
-      label: Checklist
-      description: >
-        Check all before asking a question
-      options:
-        - label: "I've searched the issue and my question hasn't been asked before."
-          required: true
-        - label: "It is not a bug report or feature request."
-          required: true
-
   - type: textarea
     attributes:
       label: Details
@@ -41,10 +30,13 @@ body:
 
   - type: checkboxes
     attributes:
-      label: Code of Conduct
+      label: Checklist
       description: >
-        By submitting this issue, you agree to follow our
-        [Code of Conduct](https://github.com/erdaltsksn/.github/blob/main/CODE_OF_CONDUCT.md)
+        By submitting this issue, you agree to the following statements.
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: "I agree to follow this project's [Code of Conduct](https://github.com/erdaltsksn/.github/blob/main/CODE_OF_CONDUCT.md)"
+          required: true
+        - label: "I've searched the issue and my question hasn't been asked before."
+          required: true
+        - label: "It is not a bug report or feature request."
           required: true
