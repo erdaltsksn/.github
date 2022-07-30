@@ -101,7 +101,7 @@ this commit closes or is related to.
 iss: < close | reopen > #124
 PRs: #123 (Pull Request)
 ref: a5c3785 (Commit)
-      repo-name@a5c3785 (Commit from another repository)
+     repo-name@a5c3785 (Commit from another repository)
 see: Links to external resources, articles, or Trello tickets
 ```
 
