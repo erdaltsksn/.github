@@ -55,7 +55,7 @@ Do not forget to separate each area with a blank line.
 `<type>` must be one of the following.
 
 ```html
-fix: Fix an issue e.g. bug, code typo, accident, misstatement
+fix:  Fix an issue e.g. bug, code typo, accident, misstatement
 feat: < Add | Delete | Update > a feature
 redo: Changes neither fix a bug nor add a feature (refactor)
 test: < Add | Delete | Update > a test
@@ -103,14 +103,14 @@ PRs: #123 (Pull Request)
 ref: a5c3785 (Commit)
      repo-name@a5c3785 (Commit from another repository)
 see: Links to external resources, articles, or Trello tickets
-```
 
-- `BREAKING CHANGE:` followed by a summary of the breaking change, a blank line,
-and a detailed description of the breaking change that also includes migration
-instructions.
-- `DEPRECATED:` followed by a short description of what is deprecated, a blank
-line, and a detailed description of the deprecation that also mentions the
-recommended update path.
+BREAKING CHANGE: followed by a summary of the breaking change, a blank line,
+                 and a detailed description of the breaking change that also 
+                 includes migration instructions.
+DEPRECATED:      followed by a short description of what is deprecated, a blank
+                 line, and a detailed description of the deprecation that also 
+                 mentions the recommended update path.
+```
 
 ### Revert and Merge
 
