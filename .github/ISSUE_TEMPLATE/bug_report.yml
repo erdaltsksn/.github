@@ -35,8 +35,8 @@ body:
     attributes:
       label: Additional Context
       description: >
-        Add here any other context info like os, version, env, path, etc.
-        This is the right place if you have relevant screenshots or log output.
+        Add any other context info like os, version, env, path, etc.
+        Here is the right place if you have relevant screenshots or log output.
     validations:
       required: false
 
