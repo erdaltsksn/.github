@@ -1,4 +1,4 @@
-# Default Github Community Health Files
+# Default GitHub Community Health Files
 
 [![Security Scan](https://github.com/erdaltsksn/.github/actions/workflows/security.yml/badge.svg)](https://github.com/erdaltsksn/.github/actions/workflows/security.yml)
 
