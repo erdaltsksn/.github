@@ -16,7 +16,7 @@ too small.
 06. **Commit** your changes according to [Commit Message Guidelines](#commit-message-guidelines)
 07. **Push** your changes and **create** a **Pull Request** for review
 08. **Communicate** with the maintainer about the revisions
-09. **Be responsive** if someone request changes for your contributions
+09. **Be responsive** if someone request changes
 10. Your contribution gets accepted. 🎉🎉🎉
 
 **NOTE:** Be sure to get the latest from "**upstream**" before making a pull
