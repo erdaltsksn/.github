@@ -23,7 +23,7 @@ body:
     attributes:
       label: Steps to reproduce the bug
       description: >
-        Describe the steps here, you can use code blocks here.
+        Describe the steps here. You can use code blocks here.
       value: |
         1. First, 
         2. 
