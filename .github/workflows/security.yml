@@ -15,7 +15,7 @@ jobs:
         os: [ubuntu-latest]
 
     steps:
-      - name: Check out code into $GITHUB_WORKSPACE directory
+      - name: Check out code
         uses: actions/checkout@v3
 
       - name: Run Codacy Analysis CLI
