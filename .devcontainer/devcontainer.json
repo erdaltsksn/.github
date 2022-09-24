@@ -1,0 +1,19 @@
+// For format details, see https://aka.ms/devcontainer.json.
+{
+    "image": "ubuntu:22.04",
+    "features": {
+        "ghcr.io/erdaltsksn/devcontainer/common-utils:1": {}
+    },
+    "mounts": [
+        // Fix: Remote Containers (.gitconfig `include.path` is not working).
+        // https://github.com/microsoft/vscode-remote-release/issues/3331
+        "source=${localEnv:HOME}/.config/private,target=/root/.config/private,type=bind,consistency=cached"
+    ],
+    // Configure tool-specific properties.
+    "customizations": {
+        "vscode": {
+            "settings": {},
+            "extensions": []
+        }
+    }
+}
