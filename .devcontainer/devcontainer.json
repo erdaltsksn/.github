@@ -16,8 +16,12 @@
     // Configure tool-specific properties.
     "customizations": {
         "vscode": {
-            "settings": {},
-            "extensions": []
+            "extensions": [],
+            "settings": {
+                "yaml.schemas": {
+                    "https://json.schemastore.org/github-issue-config.json": "file:///workspaces/dotgithub/.github/ISSUE_TEMPLATE/config.yml"
+                }
+            }
         }
     }
 }
