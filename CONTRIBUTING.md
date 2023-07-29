@@ -46,7 +46,7 @@ too small.
 09. Your contribution gets accepted. 🎉🎉🎉
 
 > **NOTE:** Be sure to get the latest from "**upstream**" before making a pull
-request!
+> request!
 
 ## Issues
 
