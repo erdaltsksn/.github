@@ -18,6 +18,12 @@
                 },
                 // redhat.vscode-yaml
                 "redhat.telemetry.enabled": false,
+                "yaml.schemas": {
+                    "https://json.schemastore.org/github-issue-config.json": [
+                        "file:///workspaces/.github/.github/ISSUE_TEMPLATE/config.yml",
+                        "file:///workspaces/dotgithub/.github/ISSUE_TEMPLATE/config.yml"
+                    ]
+                },
                 // DavidAnson.vscode-markdownlint
                 "markdownlint.config": {
                     "MD010": {
