@@ -1,6 +1,6 @@
 # Default GitHub Community Health Files
 
-[![Security Scan](https://github.com/erdaltsksn/new-project/actions/workflows/security-scan.yml/badge.svg)](https://github.com/erdaltsksn/new-project/actions/workflows/security-scan.yml)
+[![Codacy Security Scan](https://github.com/erdaltsksn/.github/actions/workflows/security-scan.yml/badge.svg)](https://github.com/erdaltsksn/.github/actions/workflows/security-scan.yml)
 
 This project focuses on automating the creation and maintenance of crucial
 community health files in GitHub repositories. These files are instrumental in
