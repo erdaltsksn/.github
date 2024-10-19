@@ -7,28 +7,29 @@ too small.
 
 ## Step By Step Contribution Guide
 
-01. 📝 **Open an Issue**: Before you start working on any changes, open a new issue
-    to discuss the problem you want to solve or the feature you want to add.
-    This helps avoid duplication of efforts and ensures that your contribution
-    aligns with the project's goals.
+01. 📝 **Open an Issue**: Before you start working on any changes, open a new
+    issue to discuss the problem you want to solve or the feature you want to
+    add. This helps avoid duplication of efforts and ensures that your
+    contribution aligns with the project's goals.
 02. ⚙️ **Install Prerequisites**: Make sure you have all the necessary
     prerequisites installed to set up the project locally. Refer to the
     project's README or documentation for detailed instructions.
     This project contains a Devcontainer that includes all the necessary
     prerequisites to set up the project.
-03. 🌱 **Create a Git Branch**: Create a new Git branch for your work and make your
-    changes on this branch. It's good practice to name your branch according to
-    the type of contribution, such as "feature/your-feature-name" or
-    "bugfix/issue-number".
-04. 🧪 **Add and Run Tests**: If applicable, add new tests or update existing ones
-    to ensure the code's correctness and reliability. Before submitting your
-    contribution, make sure all tests pass successfully.
-05. 🗒️ **Add or Update Documentation**: Keep the project's documentation up-to-date.
-    If you add a new feature or make significant changes, update the relevant
-    documentation to help other users and contributors understand your work.
-06. 📜 **Commit**: We follow a specific format for Git commit messages to maintain
-    a clear and informative project history. Please adhere to the following
-    rules:
+03. 🌱 **Create a Git Branch**: Create a new Git branch for your work and make
+    your changes on this branch. It's good practice to name your branch
+    according to the type of contribution, such as "feature/your-feature-name"
+    or "bugfix/issue-number".
+04. 🧪 **Add and Run Tests**: If applicable, add new tests or update existing
+    ones to ensure the code's correctness and reliability. Before submitting
+    your contribution, make sure all tests pass successfully.
+05. 🗒️ **Add or Update Documentation**: Keep the project's documentation
+    up-to-date. If you add a new feature or make significant changes, update the
+    relevant documentation to help other users and contributors understand your
+    work.
+06. 📜 **Commit**: We follow a specific format for Git commit messages to
+    maintain a clear and informative project history. Please adhere to the
+    following rules:
     - Separate the subject from the body with a blank line.
     - Limit the subject line to 50 characters.
     - Capitalize the subject line.
