@@ -17,6 +17,8 @@
                 "files.associations": {
                     "LICENSE*": "plaintext"
                 },
+                "files.insertFinalNewline": true,
+                "diffEditor.ignoreTrimWhitespace": false,
                 // redhat.vscode-yaml
                 "redhat.telemetry.enabled": false,
                 "yaml.schemas": {
