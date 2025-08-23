@@ -90,16 +90,16 @@ For more information, see [creating a default community health file](https://doc
 If you want to contribute to this project and make it better, your help is very
 welcome.
 
-For more information, see [Contributing Guide](https://github.com/erdaltsksn/.github/blob/main/CONTRIBUTING.md).
+For more information, see [Contributing Guide](#contributing-ov-file).
 
 ## 🔒 Security Policy
 
 If you discover a security vulnerability within this project, please follow our
-[Security Policy](https://github.com/erdaltsksn/.github/blob/main/SECURITY.md).
+[Security Policy](#security-ov-file).
 
 ## 📜 Code of Conduct
 
-This project adheres to the Contributor Covenant [Code of Conduct](https://github.com/erdaltsksn/.github/blob/main/CODE_OF_CONDUCT.md).
+This project adheres to the Contributor Covenant [Code of Conduct](#coc-ov-file).
 By participating, you are expected to uphold this code.
 
 ## ⚠️ Disclaimer
