@@ -81,6 +81,14 @@ you the flexibility to cater to specific project needs.
 By leveraging the Default GitHub Community Health Files project, you establish a
 unified and welcoming environment for contributors across all your repositories.
 
+### Priority Order
+
+GitHub follows this priority order for community health files:
+
+1. Repository's own `.github/` directory
+2. Repository's root directory
+3. Organization's `.github` repository (this one)
+
 ## ❓ Getting Help
 
 For more information, see [creating a default community health file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file).
