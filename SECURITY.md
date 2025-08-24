@@ -59,6 +59,23 @@ can provide) to help us better understand the possible issue:
 - **Code changes** you'd recommend
 - **Alternative approaches** considered
 
+### Severity Classification
+
+| Severity.      | CVSS Range | Examples                          | Response Time |
+|----------------|------------|-----------------------------------|---------------|
+| 🔴 **Critical** | 9.0 – 10.0 | - Remote code execution           | **24 hours**  |
+|                |            | - SQL injection with data access  |               |
+|                |            | - Authentication bypass           |               |
+| 🟠 **High**     | 7.0 – 8.9  | - Cross-site scripting (XSS)      | **48 hours**  |
+|                |            | - Privilege escalation            |               |
+|                |            | - Information disclosure          |               |
+| 🟡 **Medium**   | 4.0 – 6.9  | - CSRF vulnerabilities            | **5 days**    |
+|                |            | - Denial of Service               |               |
+|                |            | - Insecure default configurations |               |
+| 🟢 **Low**      | 0.1 – 3.9  | - Information leakage             | **10 days**   |
+|                |            | - Minor security issues           |               |
+|                |            | - Best-practice deviations        |               |
+
 ## 🚔 Security Response Process
 
 1. **📥 Report Received**
@@ -94,23 +111,6 @@ can provide) to help us better understand the possible issue:
 | **Investigation**    | 3-5 days    | Reproduce and analyze the vulnerability |
 | **Fix Development**  | 1-2 weeks   | Develop and test the security fix       |
 | **Disclosure**       | 30-90 days  | Coordinate public disclosure            |
-
-### Severity Classification
-
-| Severity.      | CVSS Range | Examples                          | Response Time |
-|----------------|------------|-----------------------------------|---------------|
-| 🔴 **Critical** | 9.0 – 10.0 | - Remote code execution           | **24 hours**  |
-|                |            | - SQL injection with data access  |               |
-|                |            | - Authentication bypass           |               |
-| 🟠 **High**     | 7.0 – 8.9  | - Cross-site scripting (XSS)      | **48 hours**  |
-|                |            | - Privilege escalation            |               |
-|                |            | - Information disclosure          |               |
-| 🟡 **Medium**   | 4.0 – 6.9  | - CSRF vulnerabilities            | **5 days**    |
-|                |            | - Denial of Service               |               |
-|                |            | - Insecure default configurations |               |
-| 🟢 **Low**      | 0.1 – 3.9  | - Information leakage             | **10 days**   |
-|                |            | - Minor security issues           |               |
-|                |            | - Best-practice deviations        |               |
 
 ## 📋 Vulnerability Disclosure Policy
 
