@@ -5,6 +5,17 @@ process. We are happy to welcome all contributions from anyone willing to
 improve this project. Thank you for helping out and remember, no contribution is
 too small.
 
+There are many ways to contribute to our projects:
+
+- 🐛 **Report bugs** - Help us identify and fix issues
+- 💡 **Suggest features** - Share ideas for improvements
+- 📚 **Improve documentation** - Make our docs clearer and more complete
+- 🧪 **Write tests** - Increase test coverage and reliability
+- 💻 **Submit code** - Fix bugs or implement new features
+- 🎨 **Design improvements** - Enhance UI/UX
+- 🌍 **Translations** - Help make projects accessible globally
+- 💬 **Help others** - Answer questions in discussions and issues
+
 ## 📋 Step By Step Contribution Guide
 
 01. 📝 **Open an Issue**: Before you start working on any changes, open a new
