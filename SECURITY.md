@@ -72,31 +72,20 @@ can provide) to help us better understand the possible issue:
 
 ### 📊 Severity Classification
 
-#### 🔴 **Critical (CVSS 9.0-10.0)**
-
-- Remote code execution
-- SQL injection with data access
-- Authentication bypass
-- **Response**: 24 hours
-
-#### 🟠 **High (CVSS 7.0-8.9)**
-
-- Cross-site scripting (XSS)
-- Privilege escalation
-- Information disclosure
-- **Response**: 48 hours
-
-#### 🟡 **Medium (CVSS 4.0-6.9)**
-
-- CSRF vulnerabilities
-- Denial of Service
-- **Response**: 5 business days
-
-#### 🟢 **Low (CVSS 0.1-3.9)**
-
-- Information leakage
-- Minor security issues
-- **Response**: 10 business days
+| Severity | CVSS Range | Examples | Response Time |
+|----------|------------|----------|---------------|
+| 🔴 **Critical** | 9.0 – 10.0 | - Remote code execution | **24 hours** |
+| | | - SQL injection with data access | |
+| | | - Authentication bypass | |
+| 🟠 **High** | 7.0 – 8.9 | - Cross-site scripting (XSS) | **48 hours** |
+| | | - Privilege escalation | |
+| | | - Information disclosure | |
+| 🟡 **Medium** | 4.0 – 6.9 | - CSRF vulnerabilities  | **5 business days** |
+| | | - Denial of Service | |
+| | | - Insecure default configurations | |
+| 🟢 **Low** | 0.1 – 3.9 | - Information leakage | **10 business days** |
+| | | - Minor security issues | |
+| | | - Best-practice deviations | |
 
 ### 🔄 Response Process
 
