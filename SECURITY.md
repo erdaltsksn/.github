@@ -61,6 +61,31 @@ can provide) to help us better understand the possible issue:
 
 ## 🚔 Security Response Process
 
+1. **📥 Report Received**
+   - Vulnerability report is received and acknowledged
+   - Initial severity assessment performed
+   - Unique tracking ID assigned
+
+2. **🔍 Investigation**
+   - Security team reproduces the issue
+   - Impact assessment conducted
+   - Severity confirmed or adjusted
+
+3. **🛠️ Fix Development**
+   - Security fix developed and tested
+   - Internal security review performed
+   - Fix validated against the vulnerability
+
+4. **📢 Disclosure Coordination**
+   - Reporter notified of fix timeline
+   - Public disclosure coordinated
+   - Security advisory prepared
+
+5. **🚀 Release & Disclosure**
+   - Security fix released
+   - Public security advisory published
+   - Reporter credited (if desired)
+
 ### 🕐 Response Timeline
 
 | Stage                | Timeline    | Description                             |
@@ -86,33 +111,6 @@ can provide) to help us better understand the possible issue:
 | 🟢 **Low**      | 0.1 – 3.9  | - Information leakage             | **10 days**   |
 |                |            | - Minor security issues           |               |
 |                |            | - Best-practice deviations        |               |
-
-### 🔄 Response Process
-
-1. **📥 Report Received**
-   - Vulnerability report is received and acknowledged
-   - Initial severity assessment performed
-   - Unique tracking ID assigned
-
-2. **🔍 Investigation**
-   - Security team reproduces the issue
-   - Impact assessment conducted
-   - Severity confirmed or adjusted
-
-3. **🛠️ Fix Development**
-   - Security fix developed and tested
-   - Internal security review performed
-   - Fix validated against the vulnerability
-
-4. **📢 Disclosure Coordination**
-   - Reporter notified of fix timeline
-   - Public disclosure coordinated
-   - Security advisory prepared
-
-5. **🚀 Release & Disclosure**
-   - Security fix released
-   - Public security advisory published
-   - Reporter credited (if desired)
 
 ## 📋 Vulnerability Disclosure Policy
 
