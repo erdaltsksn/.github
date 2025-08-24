@@ -27,33 +27,33 @@ Instead, please use one of these secure channels:
 To report a security issue, email [security@erdaltaskesen.com](mailto:security@erdaltaskesen.com)
 and include the project name in the subject line.
 
-### 📝 What to Include in Your Report
+## 📝 What to Include in Your Report
 
 Please include the following information along with your report (as much as you
 can provide) to help us better understand the possible issue:
 
-#### **Vulnerability Details**
+### **Vulnerability Details**
 
 - **Type of vulnerability** (e.g., XSS, SQL injection, authentication bypass)
 - **Affected component(s)** (specific repository, file, or feature)
 - **Severity assessment** (Critical, High, Medium, Low)
 - **Description** of the vulnerability and its potential impact
 
-#### **Reproduction Information**
+### **Reproduction Information**
 
 - **Steps to reproduce** the vulnerability
 - **Proof of concept** code or screenshots
 - **Environment details** (OS, browser, version, etc.)
 - **Configuration** required to reproduce
 
-#### **Impact Assessment**
+### **Impact Assessment**
 
 - **What can an attacker achieve?**
 - **What data could be compromised?**
 - **Are user accounts at risk?**
 - **Could this lead to system compromise?**
 
-#### **Suggested Fix** (Optional)
+### **Suggested Fix** (Optional)
 
 - **Proposed solution** or mitigation
 - **Code changes** you'd recommend
@@ -86,7 +86,7 @@ can provide) to help us better understand the possible issue:
    - Public security advisory published
    - Reporter credited (if desired)
 
-### 🕐 Response Timeline
+### Response Timeline
 
 | Stage                | Timeline    | Description                             |
 |----------------------|-------------|-----------------------------------------|
@@ -95,7 +95,7 @@ can provide) to help us better understand the possible issue:
 | **Fix Development**  | 1-2 weeks   | Develop and test the security fix       |
 | **Disclosure**       | 30-90 days  | Coordinate public disclosure            |
 
-### 📊 Severity Classification
+### Severity Classification
 
 | Severity.      | CVSS Range | Examples                          | Response Time |
 |----------------|------------|-----------------------------------|---------------|
