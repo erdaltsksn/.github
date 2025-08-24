@@ -1,11 +1,11 @@
-# Contributing
+# 🤝 Contributing
 
 This document contains a set of guidelines to help you during the contribution
 process. We are happy to welcome all contributions from anyone willing to
 improve this project. Thank you for helping out and remember, no contribution is
 too small.
 
-## Step By Step Contribution Guide
+## 📋 Step By Step Contribution Guide
 
 01. 📝 **Open an Issue**: Before you start working on any changes, open a new
     issue to discuss the problem you want to solve or the feature you want to
@@ -46,10 +46,10 @@ too small.
     necessary changes to address review comments.
 09. Your contribution gets accepted. 🎉🎉🎉
 
-> **NOTE:** Be sure to get the latest from "**upstream**" before making a pull
-> request!
+> [!NOTE]
+> Be sure to get the latest from "**upstream**" before making a pull request!
 
-## Issues
+## 💡 Issues
 
 Before creating a new issue, please search for similar issues, open or closed,
 to see if someone else has already noticed the same problem and possible
@@ -73,6 +73,6 @@ considerations:
 If you want to request or implement a new feature please submit an issue
 describing the details and possible use cases.
 
-## Thanks
+## 🙏🏼 Thanks
 
 Thank you to all who have contributed to this great project.
