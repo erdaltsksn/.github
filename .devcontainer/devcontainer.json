@@ -18,6 +18,7 @@
                     "LICENSE*": "plaintext"
                 },
                 "files.insertFinalNewline": true,
+                "files.trimTrailingWhitespace": true,
                 "diffEditor.ignoreTrimWhitespace": false,
                 // redhat.vscode-yaml
                 "redhat.telemetry.enabled": false,
