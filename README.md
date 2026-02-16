@@ -47,20 +47,20 @@ maintain a positive and respectful environment for all stakeholders.
 
 ## 🔄 Updating / Upgrading
 
-GitHub offers a convenient "Sync" feature that automates the process of updating
-your forked repository with the latest changes from the original repository.
-Here's how you can use this feature:
+GitHub offers a convenient "Sync fork" feature that automates the process of
+updating your forked repository with the latest changes from the original
+repository. Here's how you can use this feature:
 
 01. On GitHub, navigate to the main page of the forked repository named `.github`
-    to sync with the upstream repository.
-02. Select the Fetch upstream drop-down.
+    that you want to sync with the upstream repository.
+02. Above the list of files, select the **Sync fork** dropdown menu.
 03. Review the details about the commits from the upstream repository, then
-    click Fetch and merge.
+    click **Update branch**.
 
 *If the changes from the upstream repository cause conflicts, GitHub will prompt
 you to create a pull request to resolve the conflicts.*
 
-For more information, see [syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
+For more information, see [syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).
 
 ## 📝 Usage
 
