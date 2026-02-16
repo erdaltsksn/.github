@@ -71,7 +71,7 @@ Whenever you create a new repository or want to update an existing repository
 owned by your GitHub account, simply leave out the specific community health
 file you wish to be automatically generated. GitHub will detect the absence of
 the custom file and automatically apply the corresponding default file provided
-by the `.github`` repository.
+by the `.github` repository.
 
 For repositories that require unique guidelines or customized community health
 files, you can always override the default files by adding your tailored
